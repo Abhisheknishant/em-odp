@@ -1,0 +1,9 @@
+<map id="environment.h" name="environment.h">
+<area shape="rect" id="node3" href="$d6/de7/env__macros_8h_source.html" title="event_machine/platform\l/env/env_macros.h" alt="" coords="114,80,293,121"/>
+<area shape="rect" id="node4" href="$d0/df1/env__conf_8h_source.html" title="event_machine/platform\l/env/env_conf.h" alt="" coords="317,80,495,121"/>
+<area shape="rect" id="node5" href="$dd/d11/env__atomic_8h_source.html" title="event_machine/platform\l/env/env_atomic.h" alt="" coords="519,80,698,121"/>
+<area shape="rect" id="node6" href="$dd/dbb/env__bitmask_8h.html" title="event_machine/platform\l/env/env_bitmask.h" alt="" coords="722,80,901,121"/>
+<area shape="rect" id="node8" href="$d2/db0/env__barrier_8h_source.html" title="event_machine/platform\l/env/env_barrier.h" alt="" coords="925,80,1103,121"/>
+<area shape="rect" id="node9" href="$d7/d77/env__sharedmem_8h_source.html" title="event_machine/platform\l/env/env_sharedmem.h" alt="" coords="1127,80,1306,121"/>
+<area shape="rect" id="node10" href="$d1/d04/env__spinlock_8h_source.html" title="event_machine/platform\l/env/env_spinlock.h" alt="" coords="1330,80,1509,121"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="em_chaining.h" name="em_chaining.h">
+<area shape="rect" id="node2" href="$d7/d57/em__include_8h.html" title="em_include.h" alt="" coords="2291,80,2398,107"/>
+<area shape="rect" id="node3" href="$dc/dc9/em__timer_8c_source.html" title="em_timer.c" alt="" coords="5,162,100,189"/>
+<area shape="rect" id="node4" href="$d1/dc8/event__machine__timer_8c_source.html" title="event_machine_timer.c" alt="" coords="125,162,295,189"/>
+<area shape="rect" id="node5" href="$d2/d82/em__atomic__group_8c_source.html" title="em_atomic_group.c" alt="" coords="319,162,469,189"/>
+<area shape="rect" id="node6" href="$da/d87/em__chaining_8c_source.html" title="em_chaining.c" alt="" coords="493,162,607,189"/>
+<area shape="rect" id="node7" href="$d2/d86/em__core_8c_source.html" title="em_core.c" alt="" coords="632,162,721,189"/>
+<area shape="rect" id="node8" href="$d0/dca/em__daemon__eo_8c_source.html" title="em_daemon_eo.c" alt="" coords="745,162,883,189"/>
+<area shape="rect" id="node9" href="$de/d33/em__dispatcher_8c_source.html" title="em_dispatcher.c" alt="" coords="907,162,1033,189"/>
+<area shape="rect" id="node10" href="$dd/df5/em__eo_8c_source.html" title="em_eo.c" alt="" coords="1058,162,1135,189"/>
+<area shape="rect" id="node11" href="$d5/dc2/em__error_8c_source.html" title="em_error.c" alt="" coords="1159,162,1250,189"/>
+<area shape="rect" id="node12" href="$d0/d41/em__event_8c_source.html" title="em_event.c" alt="" coords="1275,162,1372,189"/>
+<area shape="rect" id="node13" href="$d0/db2/em__event__group_8c_source.html" title="em_event_group.c" alt="" coords="1397,162,1538,189"/>
+<area shape="rect" id="node14" href="$d1/de9/em__hooks_8c_source.html" title="em_hooks.c" alt="" coords="1562,162,1661,189"/>
+<area shape="rect" id="node15" href="$d3/d56/em__info_8c_source.html" title="em_info.c" alt="" coords="1685,162,1769,189"/>
+<area shape="rect" id="node16" href="$df/dbb/em__internal__event_8c.html" title="em_internal_event.c" alt="" coords="1794,162,1946,189"/>
+<area shape="rect" id="node17" href="$d9/dec/em__libconfig_8c_source.html" title="em_libconfig.c" alt="" coords="1971,162,2084,189"/>
+<area shape="rect" id="node18" href="$d5/d78/em__pool_8c_source.html" title="em_pool.c" alt="" coords="2109,162,2197,189"/>
+<area shape="rect" id="node19" href="$d5/d3a/em__queue_8c_source.html" title="em_queue.c" alt="" coords="2221,162,2322,189"/>
+<area shape="rect" id="node20" href="$d9/dca/em__queue__group_8c_source.html" title="em_queue_group.c" alt="" coords="2347,162,2492,189"/>
+<area shape="rect" id="node21" href="$df/d9e/event__machine__atomic__group_8c_source.html" title="event_machine_atomic\l_group.c" alt="" coords="2517,155,2687,196"/>
+<area shape="rect" id="node22" href="$df/df9/event__machine__core_8c_source.html" title="event_machine_core.c" alt="" coords="2712,162,2879,189"/>
+<area shape="rect" id="node23" href="$da/d0d/event__machine__dispatcher_8c_source.html" title="event_machine_dispatcher.c" alt="" coords="2903,162,3107,189"/>
+<area shape="rect" id="node24" href="$d6/dd3/event__machine__eo_8c_source.html" title="event_machine_eo.c" alt="" coords="3131,162,3286,189"/>
+<area shape="rect" id="node25" href="$d1/de9/event__machine__error_8c_source.html" title="event_machine_error.c" alt="" coords="3310,162,3478,189"/>
+<area shape="rect" id="node26" href="$da/d32/event__machine__event_8c_source.html" title="event_machine_event.c" alt="" coords="3503,162,3677,189"/>
+<area shape="rect" id="node27" href="$dd/dd2/event__machine__event__group_8c_source.html" title="event_machine_event\l_group.c" alt="" coords="3702,155,3865,196"/>
+<area shape="rect" id="node28" href="$d2/ddf/event__machine__helper_8c_source.html" title="event_machine_helper.c" alt="" coords="3889,162,4067,189"/>
+<area shape="rect" id="node29" href="$d4/d4a/event__machine__hooks_8c.html" title="event_machine_hooks.c" alt="" coords="4091,162,4267,189"/>
+<area shape="rect" id="node30" href="$d0/d26/event__machine__hw__specific_8c.html" title="event_machine_hw_specific.c" alt="" coords="4292,162,4501,189"/>
+<area shape="rect" id="node31" href="$da/d0b/event__machine__init_8c.html" title="event_machine_init.c" alt="" coords="4526,162,4683,189"/>
+<area shape="rect" id="node32" href="$dd/df0/event__machine__odp__ext_8c.html" title="event_machine_odp_ext.c" alt="" coords="4707,162,4897,189"/>
+<area shape="rect" id="node33" href="$d9/d7a/event__machine__pool_8c.html" title="event_machine_pool.c" alt="" coords="4921,162,5086,189"/>
+<area shape="rect" id="node34" href="$dd/dba/event__machine__queue_8c_source.html" title="event_machine_queue.c" alt="" coords="5110,162,5289,189"/>
+<area shape="rect" id="node35" href="$d5/dd9/event__machine__queue__group_8c_source.html" title="event_machine_queue\l_group.c" alt="" coords="5313,155,5480,196"/>
+<area shape="rect" id="node36" href="$dd/d1f/event__machine__scheduler_8c_source.html" title="event_machine_scheduler.c" alt="" coords="5504,162,5703,189"/>
+</map>
